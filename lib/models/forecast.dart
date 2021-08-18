@@ -1,9 +1,9 @@
-class Forescast {
+class Forecast {
   final String dayOfWeek;
   final String icon;
   final int temperature;
 
-  Forescast ({
+  Forecast({
     required this.dayOfWeek,
     required this.icon,
     required this.temperature,
